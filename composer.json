@@ -1,0 +1,19 @@
+{
+    "name": "cesarv/views",
+    "description": "Simple View Renderer",
+    "homepage": "https://github.com/cesar-v/views",
+    "keywords": ["views", "view"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cesar Vega",
+            "email": "cesar.binary@wnc.edu",
+            "homepage": "https://github.com/cesar-v"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CesarV\\Views\\": "pkg/"
+        }
+    } 
+}
